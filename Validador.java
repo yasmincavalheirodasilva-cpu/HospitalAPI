@@ -1,6 +1,6 @@
 public class Validador {
     public static void main(String[] args) {
-        System.out.println("Iniciando verificação...")
+        System.out.println("Iniciando verificação...");
 
         boolean bancoPronto = true;
 
